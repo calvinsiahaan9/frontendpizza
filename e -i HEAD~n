@@ -1,0 +1,47 @@
+[33mcommit 01574f6adc5d5adc6f17418fc1140844ac1d6c85[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: avelozzz <avoloz777@gmail.com>
+Date:   Thu Sep 26 23:28:59 2024 +0700
+
+    first commit
+
+[33mcommit 0df6739a02d16765d12363f631ab70e98880d6e8[m
+Author: Jeffrey T. Fritz <csharpfritz@users.noreply.github.com>
+Date:   Sat Nov 6 09:38:54 2021 -0400
+
+    Original version with Learn module
+
+[33mcommit 1afff9b4c801537a80407d0b1a524b9f96b1db57[m
+Author: Microsoft Open Source <microsoftopensource@users.noreply.github.com>
+Date:   Thu Nov 4 13:46:24 2021 -0700
+
+    SECURITY.md committed
+
+[33mcommit 63245bd64b750767ac366c2118ba0fb5d674d948[m
+Author: Microsoft Open Source <microsoftopensource@users.noreply.github.com>
+Date:   Thu Nov 4 13:46:24 2021 -0700
+
+    README.md committed
+
+[33mcommit 5c68cdd3f11d3e8bebdf33c4b5bb022c2213a3ba[m
+Author: Microsoft Open Source <microsoftopensource@users.noreply.github.com>
+Date:   Thu Nov 4 13:46:23 2021 -0700
+
+    LICENSE committed
+
+[33mcommit 7fb8843f510600c9281bb8967785633059a9523e[m
+Author: Microsoft Open Source <microsoftopensource@users.noreply.github.com>
+Date:   Thu Nov 4 13:46:22 2021 -0700
+
+    LICENSE-CODE committed
+
+[33mcommit 6b0ab365ace691781e11f79900683bfc0f103782[m
+Author: Microsoft Open Source <microsoftopensource@users.noreply.github.com>
+Date:   Thu Nov 4 13:46:22 2021 -0700
+
+    CODE_OF_CONDUCT.md committed
+
+[33mcommit 312109fac4af515e5d34ff77084be90a3adeaadc[m
+Author: microsoft-github-operations[bot] <55726097+microsoft-github-operations[bot]@users.noreply.github.com>
+Date:   Thu Nov 4 20:46:19 2021 +0000
+
+    Initial commit
